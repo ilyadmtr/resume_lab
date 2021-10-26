@@ -1,0 +1,52 @@
+*,html,body{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  padding: 20px;
+}
+.resume{
+  background: lightgreen;
+  width: 100%;
+  border-radius: 15px;
+  padding: 15px 100px;
+}
+h1{
+  font-size: 15px;
+}
+span{
+  font-size: 12px;
+  font-style: italic;
+}
+.h_span{
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+}
+img{
+  width: 250px;
+}
+.image_contacts{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+p{
+  font-size: 12px;
+}
+p span{
+  font-size: 12px;
+  font-weight: bold;
+}
+h2{
+  font-size: 12px;
+  font-weight: bold;
+}
+ul li{
+  font-size: 12px;
+}
