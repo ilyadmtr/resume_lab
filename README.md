@@ -1,2 +1,2 @@
 # resume_lab
-It is labatoru work for college subject
+It is labatory work for college subject
