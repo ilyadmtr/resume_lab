@@ -1,0 +1,40 @@
+body{
+  background-image: url(../images/biblioteka_1.jpg);
+  background-size: 100%;
+
+  margin: auto;
+  text-align: center;
+  width: 1000px;
+  color: white!important;
+  text-decoration: none;
+
+}
+.big_text{
+  font-size: 30px;
+  font-style: italic;
+}
+ul{
+  font-size: 30px;
+  font-style: italic;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+.blue{
+  color: blue;
+}
+.images{
+  display: flexbox;
+}
+.img_1{
+  width: 300px;
+  height: 300px;
+}
+a{
+  text-decoration: none;
+  color: white;
+
+}

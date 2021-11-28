@@ -1,0 +1,24 @@
+.tbl{
+	width: 100%;
+	border-collapse:collapse;
+	border-spacing:0;
+	height: auto;
+  text-align: center;
+}
+.tbl,.tbl td,.tbl th {
+	border: 1px solid #595959;
+}
+.tbl td,.tbl th {
+	padding: 3px;
+	width: 30px;
+	height: 35px;
+}
+.tbl th {
+	background: #347c99;
+	color: #fff;
+	font-weight: normal;
+}
+span{
+  font-size: 30px;
+  text-align:center;
+}
